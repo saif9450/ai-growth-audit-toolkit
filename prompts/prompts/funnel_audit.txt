@@ -1,0 +1,35 @@
+Act as a senior growth strategist.
+
+Analyze the following funnel:
+[Describe funnel or paste link]
+
+Break it down into:
+
+1. Awareness Stage
+- Traffic sources quality
+- Targeting alignment
+
+2. Consideration Stage
+- Landing page effectiveness
+- Messaging clarity
+- Offer strength
+
+3. Conversion Stage
+- CTA placement
+- Friction points
+- Drop-off reasons
+
+4. Retention & Monetization
+- Follow-up systems
+- Email/SMS flows
+- Upsell opportunities
+
+5. Key Leaks
+- Where users are dropping off
+- Why they are not converting
+
+6. Action Plan
+- Quick wins
+- High-impact improvements
+
+Give structured, operator-level insights.
