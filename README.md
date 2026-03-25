@@ -1,5 +1,6 @@
 # AI Growth Audit Toolkit
 
+> ⚡ An evolving open-source system for AI-driven growth audits used by founders & operators.
 An open-source toolkit designed to help startups, D2C brands, and operators run structured growth audits using AI.
 
 ---
@@ -41,6 +42,11 @@ This toolkit provides:
 - Paid ads evaluation prompts  
 - Notion-based audit system (coming)
 
+## 🗂 Repository Structure
+
+- `/prompts` → Ready-to-use audit prompts (SEO, Funnel, Ads)
+- `/framework` → Strategic audit frameworks
+- `/templates` → Execution templates (coming soon)
 ---
 
 ## ⚙️ How to Use
@@ -57,6 +63,16 @@ This toolkit provides:
 I’m building systems to bridge the gap between strategy and execution using AI.
 
 This toolkit is an early step toward creating accessible, high-quality growth intelligence tools for operators.
+
+## 📊 Example Use Case
+
+A D2C brand struggling with low ROAS can:
+
+1. Use the Ads Audit prompt to diagnose performance issues  
+2. Run Funnel Audit to identify conversion leaks  
+3. Apply Growth Framework to prioritize fixes  
+
+Result: Clear, structured action plan instead of guesswork
 
 ---
 
