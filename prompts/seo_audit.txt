@@ -1,0 +1,33 @@
+Act as a senior SEO strategist.
+
+Analyze the following website:
+[Insert Website URL]
+
+Provide a structured audit covering:
+
+1. Technical SEO Issues
+- Site speed
+- Mobile optimization
+- Indexing issues
+- Broken links
+
+2. On-Page SEO
+- Title tags and meta descriptions
+- Keyword usage
+- Content quality
+- Internal linking
+
+3. Content Strategy Gaps
+- Missing topics
+- Weak pages
+- Blog/content opportunities
+
+4. Competitor Insights
+- What competitors are doing better
+- Keyword gaps
+
+5. Action Plan
+- Quick wins (low effort, high impact)
+- Long-term strategy
+
+Give clear, actionable, no-fluff output.
