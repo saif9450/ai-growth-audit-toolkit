@@ -1,0 +1,36 @@
+Act as a performance marketing expert.
+
+Analyze the following ad campaign:
+[Paste ad details, creatives, or metrics]
+
+Break down:
+
+1. Targeting
+- Audience relevance
+- Intent match
+
+2. Creatives
+- Hook strength
+- Messaging clarity
+- Visual effectiveness
+
+3. Offer
+- Value proposition
+- Differentiation
+- Urgency
+
+4. Funnel Alignment
+- Does the ad match landing page?
+- Expectation vs reality
+
+5. Performance Issues
+- Low CTR reasons
+- High CPC causes
+- Low conversion reasons
+
+6. Optimization Plan
+- Creative improvements
+- Targeting tweaks
+- Scaling strategy
+
+Give direct, actionable recommendations.
